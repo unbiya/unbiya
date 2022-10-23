@@ -4,7 +4,6 @@ My name is Jenna.
 
 👾 I am a software engineer who is passionate about building innovative products.
 💡 I am experienced in JavaScript, React/Redux, Node.js/Express frameworks and active in the open source community. 
-
 🌳 I'm currently working on Canopy, an open-source Chrome extension debugging tool for Svelte applications. Please check it out!
 
 <!--👾
