@@ -7,7 +7,7 @@ My name is Jenna.
 💡 I am experienced in JavaScript, React/Redux, Node.js/Express frameworks and active in the open source community.
 
 
-🌳 I'm currently working on Canopy, an open-source Chrome extension debugging tool for Svelte applications. Please check it out!
+🌳 I'm currently working on [Canopy](https://github.com/oslabs-beta/canopy), an open-source Chrome extension debugging tool for Svelte applications. Please check it out!
 
 <!--👾
 **unbiya/unbiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
